@@ -3,7 +3,9 @@
 11. sınıfta Grafik ve Canlandırma dersi kapsamında hazırladığım projelerin bulunduğu depodur.
 
 ## 📌 Hakkında
-Bu repository içerisinde ders boyunca geliştirdiğim çeşitli grafik tasarım ve animasyon projeleri yer almaktadır. Projeler; hareketli grafikler oluşturmak, görsel tasarım becerilerini geliştirmek ve animasyon tekniklerini öğrenmek amacıyla hazırlanmıştır.
+Bu repository içerisinde 11. sınıfta Grafik ve Canlandırma dersi kapsamında hazırladığım çeşitli projeler yer almaktadır. Projeler; görsel tasarım, fotoğraf düzenleme, afiş tasarımı, hareketli grafikler ve animasyon çalışmaları üzerine geliştirilmiştir.
+
+Çalışmalar Adobe Photoshop ve Adobe After Effects kullanılarak hazırlanmış olup, grafik tasarım ve canlandırma alanındaki temel bilgi ve becerileri geliştirmeyi amaçlamaktadır.
 
 ## 📂 İçerik
 Bu depoda birden fazla proje bulunmaktadır. Her proje farklı tasarım ve animasyon teknikleri kullanılarak hazırlanmıştır.
